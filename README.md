@@ -24,3 +24,8 @@ $ git push origin master
 
 OsamaQayyum@DESKTOP-9IM5G13 MINGW64 ~/file (master)
 $
+
+for Clear Git Tree/ deinitialize the git folder:
+OsamaQayyum@DESKTOP-9IM5G13 MINGW64 /d/MERN-CHAT-APP (master)
+$ rm -rf .git
+
